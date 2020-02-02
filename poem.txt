@@ -3,6 +3,7 @@ hello
 red
 blue
 GREEN
+SILVER
 orange
 cyan
 voilet
