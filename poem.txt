@@ -1,0 +1,7 @@
+hello
+
+red
+blue
+orange
+cyan
+voilet
